@@ -10,5 +10,7 @@ public class HomePage {
     //navigation menu
 
 
+//more thing for homepage
 
+    //logo
 }
